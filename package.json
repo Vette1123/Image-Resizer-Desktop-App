@@ -1,0 +1,20 @@
+{
+  "name": "gado",
+  "version": "1.0.0",
+  "ProductName": "Image Resizer",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
