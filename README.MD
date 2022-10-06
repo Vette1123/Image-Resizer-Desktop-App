@@ -11,3 +11,4 @@ npm install
 ```sh
 npm start
 ```
+![dekstopapp](https://user-images.githubusercontent.com/26345237/194243786-1289cb5a-a89b-4f80-b31b-e343baf8ab95.png)
